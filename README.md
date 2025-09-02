@@ -5,13 +5,13 @@
   <img align="right" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/ae8226a0.gif?v=b471a82b">
     <br/>
   <img align="center" width="75" src="https://wilardo.crd.co/assets/images/gallery06/ae139cc8.png?v=c0a0770b">
-  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid= [spotify username] &cover_image=true&theme=novatorem&show_offline=true&background_color= [hex code here] &interchange=true&bar_color= [hex code here] &bar_color_cover=false">
+  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvixoh4e6htdxl7k2bkx5gymxm&cover_image=true&theme=novatorem&show_offline=true&background_color=2e2e2e&interchange=true&bar_color=900000&bar_color_cover=false">
   <img align="center" width="75" src="https://f3verdream.carrd.co/assets/images/gallery01/adc1363a.png?v=a26325f0">
     <br/> 
-  <img align="center" src="http://media.tumblr.com/4fd894db8ac379f6d6a136059d866c88/tumblr_inline_mh404424En1r913zj.gif">
-    <br/>
   <img height="100" align="left" src="https://wilardo.crd.co/assets/images/gallery33/c570d12c.gif?v=c0a0770b">
+  <img align="center" src="http://media.tumblr.com/4fd894db8ac379f6d6a136059d866c88/tumblr_inline_mh404424En1r913zj.gif">
   <img height="100" align="right" src="https://f3verdream.carrd.co/assets/images/gallery01/fc33ca37.gif?v=7c55eb14">
+    <br/>
     <br/>
   <img align="center" src="https://f3verdream.carrd.co/assets/images/gallery01/c2b82cd3.gif?v=4181f9eb">
   <img align="center" src="https://komarev.com/ghpvc/?username=gaaraboof&color=900000&style=plastic&label=✯+kill+count+⭒+&abbreviated=true">
