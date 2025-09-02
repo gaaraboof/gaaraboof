@@ -28,9 +28,9 @@
   <img align="center" src="https://biscuit.crd.co/assets/images/gallery86/3f76d9d1.gif?v=cc1c6dfa">
     <br/>
   <img align="left" src=" [gif/png URL] ">
-  <img align="center" src=" [stamp URL] " hspace="10" >
-  <img align="center" src=" [stamp URL] " hspace="10" >
-  <img align="center" src=" [stamp URL] " hspace="10" >
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery22/02c21a7d.jpg?v=b471a82b" hspace="10" >
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery09/6825816d.jpg?v=b471a82b" hspace="10" >
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery13/9f8560c5.png?v=b471a82b" hspace="10" >
   <img align="right" src=" [gif/png URL] ">
     <br/>
     <br/>
