@@ -39,5 +39,7 @@
     <br/>
   <sup> <a href=" [link] "> [site] </a> ⠀⋆⠀ <a href=" [link] "> [site] </a> ⠀⋆⠀ <a href=" [link] "> [site] </a> </sup>
     <br/>
-  <img align="center" width="75" src="https://biscuit.crd.co/assets/images/gallery73/dc024c36.gif?v=cc1c6dfa">
+</p>
+<p align="center">
+    <img align="center" width="75" src="https://biscuit.crd.co/assets/images/gallery73/dc024c36.gif?v=cc1c6dfa">
 </p>
