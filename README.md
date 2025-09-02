@@ -21,9 +21,9 @@
     <br/>
   <I><sup> [text] </sup></I>
     <br/>
-  <img align="center" src=" [small png URL] " hspace="30">
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery20/b7df3e7d.gif?v=b471a82b">
   <align="center"><hspace="20"> [ text ] </hspace></align>
-  <img align="center" src=" [small png URL] " hspace="30">
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery20/92a12537.gif?v=b471a82b">
     <br/>
   <img align="center" src="https://biscuit.crd.co/assets/images/gallery86/3f76d9d1.gif?v=cc1c6dfa">
     <br/>
