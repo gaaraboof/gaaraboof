@@ -5,8 +5,9 @@
 </p>
   
   <!--
-once you're done filling everything out, delete lines 5-8 to make everything visible
+once you're done filling everything out, delete lines 1-10 to make everything visible
 when filling in URLs make sure you delete the spaces between the link and any surrounding characters. leaving spaces in will cause errors in displaying the image
+you can keep the gaara gif, if you wanna put it somewhere else just plug the link in to somewhere in this template
 <p align="center">
     <br/>
   <img align="left" src=" [gif/png URL] ">
