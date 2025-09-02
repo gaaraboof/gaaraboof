@@ -1,31 +1,21 @@
-<p align="left">
-  <img align="left" src="http://media.tumblr.com/4fd894db8ac379f6d6a136059d866c88/tumblr_inline_mh404424En1r913zj.gif">
-    <br/>
-    <br/>
-</p>
-  
-  <!--
-once you're done filling everything out, delete lines 1-10 to make everything visible
-when filling in URLs make sure you delete the spaces between the link and any surrounding characters. leaving spaces in will cause errors in displaying the image
-you can keep the gaara gif, if you wanna put it somewhere else just plug the link in to somewhere in this template
 <p align="center">
     <br/>
-  <img align="left" src=" [gif/png URL] ">
-  <img align="center" src=" [divider img URL] ">
-  <img align="right" src=" [gif/png URL] ">
+  <img align="left" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/b34f3e28.gif?v=b471a82b">
+  <img align="center" src="https://biscuit.crd.co/assets/images/gallery86/fe4df821.gif?v=cc1c6dfa">
+  <img align="right" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/ae8226a0.gif?v=b471a82b">
     <br/>
   <img align="center" width="75" src=" [border L URL] ">
   <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid= [spotify username] &cover_image=true&theme=novatorem&show_offline=true&background_color= [hex code here] &interchange=true&bar_color= [hex code here] &bar_color_cover=false">
   <img align="center" width="75" src=" [border R URL] ">
     <br/> 
-  <img align="center" src=" [gif URL] ">
+  <img align="center" src="http://media.tumblr.com/4fd894db8ac379f6d6a136059d866c88/tumblr_inline_mh404424En1r913zj.gif">
     <br/>
   <img height="100" align="left" src=" [gif/png URL] ">
   <img height="100" align="right" src=" [gif/png URL] ">
     <br/>
-  <img align="center" src=" [pixel border L URL] ">
-  <img align="center" src="https://komarev.com/ghpvc/?username=gaaraboof&color= [hex code here] &style=plastic&label= [text here, use + for spaces] &abbreviated=true">
-  <img align="center" src="  [pixel border R URL] ">
+  <img align="center" src="https://biscuit.crd.co/assets/images/gallery42/df32979f.gif?v=cc1c6dfa">
+  <img align="center" src="https://komarev.com/ghpvc/?username=gaaraboof&color=900000&style=plastic&label=✯+kill+count+⭒+&abbreviated=true">
+  <img align="center" src="https://f3verdream.carrd.co/assets/images/gallery01/0abee8c2.gif?v=ef994354">
     <br/>    <br/>
   <I><sub> [text] </sub></I>
     <br/>
@@ -35,7 +25,7 @@ you can keep the gaara gif, if you wanna put it somewhere else just plug the lin
   <align="center"><hspace="20"> [ text ] </hspace></align>
   <img align="center" src=" [small png URL] " hspace="30">
     <br/>
-  <img align="center" src=" [divider URL] ">
+  <img align="center" src="https://biscuit.crd.co/assets/images/gallery86/3f76d9d1.gif?v=cc1c6dfa">
     <br/>
   <img align="left" src=" [gif/png URL] ">
   <img align="center" src=" [stamp URL] " hspace="10" >
@@ -44,10 +34,9 @@ you can keep the gaara gif, if you wanna put it somewhere else just plug the lin
   <img align="right" src=" [gif/png URL] ">
     <br/>
     <br/>
-  <img align=" [blinkie URL] ">
+  <img align="center" src="https://biscuit.crd.co/assets/images/gallery78/356bb442.gif?v=cc1c6dfa">
     <br/>
   <sup> <a href=" [link] "> [site] </a> ⠀⋆⠀ <a href=" [link] "> [site] </a> ⠀⋆⠀ <a href=" [link] "> [site] </a> </sup>
+    <br/>
+  <img align="center" width="75" src="https://biscuit.crd.co/assets/images/gallery73/dc024c36.gif?v=cc1c6dfa">
 </p>
-
-heyhey delete these last 2 lines too
--->
