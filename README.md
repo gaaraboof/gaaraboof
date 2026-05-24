@@ -19,12 +19,12 @@
   <img align="center" <img src="https://files.catbox.moe/y7lfke.png" alt="54"/>
     <br/>
     <br/>
-  <img align="center" src="https://github.com/user-attachments/assets/97091ddc-9f19-44c2-8771-af61956d1a2a"/>
-  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery09/6825816d.jpg?v=b471a82b" hspace="10" >
+  <img align="center" <img width="105" height="59" alt="image" src="https://github.com/user-attachments/assets/b3c1561c-aaa1-4ea4-9a8a-0628963183b1" />
+  <img align="center" <img width="104" height="65" alt="image" src="https://github.com/user-attachments/assets/aa3d6d90-b68e-460f-b2f9-378c1b8cb104" />
   <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery13/9f8560c5.png?v=b471a82b" hspace="10" >
     <br/>
     <br/>
-  <img align="center" src="https://biscuit.crd.co/assets/images/gallery78/356bb442.gif?v=cc1c6dfa">
+  <img align="center"<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/88d10d7e-d490-4c4d-acc1-a2ac2ac4041f"/>
     <br/>
     <br/>
 </p>
