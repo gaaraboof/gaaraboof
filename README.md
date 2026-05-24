@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://i.postimg.cc/Gpj0Yc0z/darling.gif"/>
+  <img align="center" <img src="https://poempuppy.neocities.org/resources/blinkies/c722f2a26917b22b4e1945a92a9fd5dfd10ba08c.gif" alt="c722f2a26917b22b4e1945a92a9fd5dfd10ba08c.gif"/>
     <br/>
     <br/>
   <img align="left" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/b34f3e28.gif?v=b471a82b">
