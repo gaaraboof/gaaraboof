@@ -1,30 +1,21 @@
 <p align="center">
-  <img align="center" <img src="https://poempuppy.neocities.org/resources/blinkies/c722f2a26917b22b4e1945a92a9fd5dfd10ba08c.gif" alt="c722f2a26917b22b4e1945a92a9fd5dfd10ba08c.gif"/>
+  <img align="center" <img src="https://supplies.ju.mp/assets/images/gallery08/359c4696_original.gif?v=2e2c9a9d"/>
     <br/>
     <br/>
-  <img align="left" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/b34f3e28.gif?v=b471a82b">
-  <img align="right" width="100" src="https://carcuvorous.carrd.co/assets/images/gallery01/b34f3e28.gif?v=b471a82b">
-  <img align="center" width="75" src="https://wilardo.crd.co/assets/images/gallery06/ae139cc8.png?v=c0a0770b">
-  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvixoh4e6htdxl7k2bkx5gymxm&cover_image=true&theme=novatorem&show_offline=true&background_color=2e2e2e&interchange=true&bar_color=900000&bar_color_cover=false">
-  <img align="center" width="75" src="https://f3verdream.carrd.co/assets/images/gallery01/adc1363a.png?v=a26325f0">
+  
+<img src="https://64.media.tumblr.com/88819d39372d64274d5e8f5f795f2b87/f4cf3be3a03a39af-9d/s250x400/c2025cd84f4d6ad64a453aff88e865f226b7ca7f.gifv" alt="image"/>
+<img src="https://poempuppy.neocities.org/resources/buttons/tumblr_fc9391a4a2da68b637481ea9eeeb25dd_5a9c3eb3_75.webp" alt="tumblr_fc9391a4a2da68b637481ea9eeeb25dd_5a9c3eb3_75.webp"/>
+<img src="https://64.media.tumblr.com/33a66541933e4193eed51c8c4690d84b/f4cf3be3a03a39af-25/s250x400/da1be549073070d109e97e456a43e50cd2d7c6ff.gifv" alt="image"/>
     <br/> 
-  <img height="100" align="left" <img src="https://files.catbox.moe/v0h74b.png" alt="31"/>
-  <img align="center" <img src="https://files.catbox.moe/mhhirq.gif" alt="0"/>
-  <img height="100" align="right" <img src="https://files.catbox.moe/v0h74b.png" alt="31"/>
+    <img src="https://poempuppy.neocities.org/resources/pixels/amh0kk.gif" alt="amh0kk.gif"/>
     <br/>
     <br/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=gaaraboof&color=900000&style=plastic&label=✯+kill+count+⭒+&abbreviated=true">
-    <br/>
-    <br/>
-  <img align="center" <img src="https://files.catbox.moe/y7lfke.png" alt="54"/>
+  <img align="center" <img src="https://mocha.crd.co/assets/images/gallery05/3198fedb_original.png?v=667e73fe"/>
     <br/>
     <br/>
   <img align="center" <img width="105" height="59" alt="image" src="https://github.com/user-attachments/assets/b3c1561c-aaa1-4ea4-9a8a-0628963183b1" />
   <img align="center" <img width="104" height="65" alt="image" src="https://github.com/user-attachments/assets/aa3d6d90-b68e-460f-b2f9-378c1b8cb104" />
   <img align="center" <img width="98" height="55" alt="image" src="https://github.com/user-attachments/assets/39512ef8-fd71-4488-aa95-f84e411bb679" />
-    <br/>
-    <br/>
-  <img align="center"<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/88d10d7e-d490-4c4d-acc1-a2ac2ac4041f"/>
     <br/>
     <br/>
 </p>
