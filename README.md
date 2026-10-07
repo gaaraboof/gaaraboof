@@ -21,4 +21,4 @@
 </p>
 <p align="center">
 
-follow our TikTok @gaaraboof
+follow our TikTok https://www.tiktok.com/@gaaraboof
